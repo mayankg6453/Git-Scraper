@@ -24,3 +24,6 @@ This is a python based scrapper used to scrape top 30 repositories off all the t
 ### Problems Faced
 - Initially able to scrape only top 30 topics present on the first page.
 - Get connection issue after scraping few topics.
+
+### Problems overcome
+- All the issues faced are solved rigorously.
